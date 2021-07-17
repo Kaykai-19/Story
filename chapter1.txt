@@ -10,3 +10,5 @@ also always use present tense
 - "-u": links up remote and local repository
 - git remote add origin <link>: syncs up your local repostiry to your online repository
 - git push -u origin master: pushes local files to your online repository
+- git branch: checks which branch you are in or it can add a new branch by writing a name after it
+example is "git branch new-branch"
