@@ -2,3 +2,6 @@ It was the best of times, it was the worst of times. Charles got the good good!
 
 notes
 - git status: tells you what's in the staging area and shows untracked files
+- "-m": tells you what changes you've made in each save point (it's like a comment I think)
+also always use present tense
+- if you use a "." in terminal it means every file in the working directory
