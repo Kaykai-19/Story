@@ -8,3 +8,5 @@ also always use present tense
 - git diff: tells you the difference between last save point and current changes in the file
 - git checkout: rolls back the file to the last version that was commited
 - "-u": links up remote and local repository
+- git branch: checks which branch you are in or it can add a new branch by writing a name after it
+example is "git branch new-branch"
