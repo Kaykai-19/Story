@@ -5,3 +5,5 @@ notes
 - "-m": tells you what changes you've made in each save point (it's like a comment I think)
 also always use present tense
 - if you use a "." in terminal it means every file in the working directory
+- git diff: tells you the difference between last save point and current changes in the file
+- git checkout: rolls back the file to the last version that was commited
